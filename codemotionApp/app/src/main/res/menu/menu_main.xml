@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="es.uca.codemotionapp.activities.MainActivity">
+
+    <item
+        android:id="@+id/init"
+        android:orderInCategory="100"
+        android:title="@string/inicio"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/assistants_event"
+        android:orderInCategory="100"
+        android:title="@string/asistentes_al_evento"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/program"
+        android:orderInCategory="100"
+        android:title="@string/programa"
+        app:showAsAction="never" />
+     <item
+        android:id="@+id/fechas_importantes"
+        android:orderInCategory="100"
+        android:title="@string/fechas_importantes"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/location"
+        android:orderInCategory="100"
+        android:title="@string/localizaci_n"
+        app:showAsAction="never" />
+
+</menu>

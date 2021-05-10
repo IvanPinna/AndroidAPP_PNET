@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Codemotion</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="titleFriday">   <b>Viernes</b> </string>
+    <string name="titleSaturday"> <b>Sábado</b>  </string>
+    <string name="titleSunday">   <b>Domingo</b> </string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+    <!-- Activities titles -->
+    <string name="title_activity_asistentes_evento">Asistentes al evento</string>
+    <string name="title_activity_crear_asistente">Crear asistente</string>
+    <string name="title_activity_informacion_asistente">Información del asistente</string>
+    <string name="title_activity_actualizar_asistente">Actualizar asistente</string>
+    <string name="title_activity_location">Localización</string>
+    <string name="title_activity_program">ProgramActivity</string>
+
+
+    <!-- Items menu -->
+    <string name="inicio">Inicio</string>
+    <string name="asistentes_al_evento">Asistentes al evento</string>
+    <string name="programa">Programa</string>
+    <string name="fechas_importantes">Fechas Importantes</string>
+    <string name="localizaci_n">Localización</string>
+
+
+    <!-- Name for formlaries inputs -->
+    <string name="dni">DNI</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="edad">Edad</string>
+    <string name="tel_fono">Teléfono</string>
+    <string name="email">Email</string>
+    <string name="fecha_de_nacimiento">Fecha de nacimiento</string>
+    <string name="fecha_entrada">Fecha entrada</string>
+    <string name="fecha_salida">Fecha Salida</string>
+    <string name="crear">Crear</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="editar">Editar</string>
+    <string name="actualizar">Actualizar</string>
+
+
+    <!-- Main Page -->
+    <string name="inicioTexto">¡Bienvenido a Codemotion!</string>
+    <string name="inscribete">¡Inscríbete!</string>
+    <string name="ponente1">Bill Gates</string>
+    <string name="ponente2">Larry Pages</string>
+    <string name="ponentes_destacados">Ponentes destacados</string>
+
+    <!-- Location map -->
+    <string name="codemotion_madrid">Codemotion Madrid</string>
+    <string name="direccion_codemotion">Av.Kineapolis, 20, 11010, Madrid</string>
+    <string name="horario_apertura">Apertura a las 9:00</string>
+    <string name="aviso_covid">Los horarios y servicios pueden variar debido a la crisis del COVID-19</string>
+    <string name="info_button">Info</string>
+
+
+    <string name="ip_address">192.168.1.39</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="descripction_ponente1">Bill Gates ponent</string>
+    <string name="description_ponente2">Larry Pages ponente 2</string>
+    <string name="hill_username">username</string>
+    <string name="hill_surname">surname</string>
+    <string name="hill_age">age</string>
+    <string name="hill_phone">phone</string>
+
+
+</resources>
